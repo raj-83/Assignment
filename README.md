@@ -1,3 +1,8 @@
+
+<img width="1898" height="872" alt="image" src="https://github.com/user-attachments/assets/09f1b1ec-8b29-44a6-bdeb-a9b317674a5f" />
+
+
+
 # MoneyWeaver Dashboard
 
 A modern, responsive dashboard application for MoneyWeaver, inspired by the xiaodianpu design. This is a single-page React application that provides a comprehensive e-commerce management interface.
