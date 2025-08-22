@@ -159,8 +159,5 @@ The application uses Tailwind CSS classes. To modify styles:
 
 ## License
 
-This project is created for educational and demonstration purposes.
 
 ---
-
-**Note**: This is a frontend assignment for MoneyWeaver. The application demonstrates modern React development practices, responsive design, and data visualization capabilities.
